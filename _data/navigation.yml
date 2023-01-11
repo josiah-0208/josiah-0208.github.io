@@ -13,7 +13,7 @@ sidebar-category:
   - title: "Lang"
     children:
       - title: "JavaScript"
-        url: "/javaScript"
+        url: "categories/javaScript"
         category: "JavaScript"
       - title: "TypeScript"
         url: "/typeScript"
