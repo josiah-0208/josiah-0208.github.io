@@ -131,3 +131,14 @@ sidebar-sample:
         url: /
       - title: "Child Page D2"
         url: /
+
+
+sidebar-category:
+  - title: "Lang"
+    children:
+      - title: "JavaScript"
+        url: "/javaScript"
+        category: "JavaScript"
+      - title: "TypeScript"
+        url: "/typeScript"
+        category: "TypeScript"
