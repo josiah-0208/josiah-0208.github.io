@@ -5,7 +5,7 @@ layout: archive
 permalink: /javaScript
 
 author_profile: true
-sidebar_main: false
+sidebar_main: true
 
 ---
 
