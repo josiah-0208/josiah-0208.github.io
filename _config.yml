@@ -290,5 +290,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      sidebar:                # 카테고리가 항상 보이기 default로 설정
-        nav: "sidebar-category"
+      # sidebar:                # 카테고리가 항상 보이기 default로 설정 이건 커스텀 사이드바가 생겨서 주석처리
+      #  nav: "sidebar-category"
+      sidebar_main: true

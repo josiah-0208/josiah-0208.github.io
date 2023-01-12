@@ -11,10 +11,10 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-sidebar-category:
-  - title: "Lang"
-    children:
-      - title: "JavaScript"
-        url: "/categories/javaScript"
-      - title: "TypeScript"
-        url: "/categories/typeScript"
+# sidebar-category:           이게 사이드바에 나타내는 카테고리 정석인데, 
+#   - title: "Lang"           커스텀으로 sidebar_main 사이드바 페이지 만들어주고 사이드바에 포함시켜서
+#     children:               주석처리 함.
+#       - title: "JavaScript"   참고 블로그 https://ansohxxn.github.io/blog/category/#nav_list_main
+#         url: "/categories/javaScript"
+#       - title: "TypeScript"
+#         url: "/categories/typeScript"
