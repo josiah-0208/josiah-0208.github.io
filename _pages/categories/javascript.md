@@ -2,7 +2,7 @@
 
 title: "JavaScript"
 layout: archive
-permalink: /categories/
+permalink: /javaScript
 
 author_profile: true
 sidebar:
