@@ -2,8 +2,8 @@
 main:
   # - title: "Category"
   #   url: /categories/
-  - title: "🔍"
-    url: /search/
+  # - title: "🔍"         _config 파일에서 search기본 기능 추가해줬음 그 돋보기가 더 이뻐보여서
+  #  url: /search/         여기에 추가한건 검색 기능하는search.md 페이지를 만들어서 링크로 이어준 것 뿐
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
