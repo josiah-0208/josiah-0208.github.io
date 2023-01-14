@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "이현수"
-  avatar           : "/assets/images/blog_profileImg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/blog_profileImg.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "그곳에 산이 있으니까."
   location         : "Seoul, South Korea"
   email            :
