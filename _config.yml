@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "이현수"
   avatar           : "/assets/images/blog_profileImg.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "그곳에 산이 있으니까."
+  bio              : "그곳에 산이 있으니까"
   location         : "Seoul, South Korea"
   email            :
   links:
