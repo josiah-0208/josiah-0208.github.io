@@ -1,15 +1,15 @@
 ---
 
-title: "JavaScript"
+title: "React.js"
 layout: archive
-permalink: /categories/javaScript
+permalink: /categories/react
 
 author_profile: true
 sidebar_main: true
 
 ---
 
-{% assign posts = site.categories.JavaScript %}
+{% assign posts = site.categories.React %}
 {% for post in posts %} 
   {% include archive-single2.html type=page.entries_layout %} 
 {% endfor %}
