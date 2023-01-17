@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "useCallback() - 랜더링 되게 하지마!"
+title: "useMemo(), useCallback() - 랜더링 되게 하지마!"
 categories:
   - React
-tag: 
-  - useCallback
+tag: [useMemo, useCallback]
 
 toc: true
 toc_sticky: true
@@ -31,7 +30,7 @@ Memoization
 
 * useMemo()는 **연산의 결과를 저장**해둔다.  
   컴포넌트의 결과값(화면)을 저장할 수도 있다.
-* useCallback()는 **함수를 저장해 두고**,  
+* useCallback()는 **함수를 저장**해 두고,  
   함수가 재생성되지 않게 한다.
 <br/><br/>
 
