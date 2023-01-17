@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "useMemo(), useCallback() - 랜더링 되게 하지마!"
+title: "useMemo(), useCallback() - 랜더링 X!"
 categories:
   - React
 tag: [useMemo, useCallback]
