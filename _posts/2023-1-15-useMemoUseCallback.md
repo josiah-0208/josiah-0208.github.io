@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "useMemo(), useCallback() - 랜더링 X!"
+title: "useMemo(), useCallback() - 리렌더링 X!"
 categories:
   - React
 tag: [useMemo, useCallback]
@@ -60,7 +60,7 @@ useMemo()는 연산량이 많은(비용이 큰) 작업의 결과를 저장해두
 **방대한 연산이 반복 수행되는 것을 막을 수 있다**.
 <br/><br/>
 
-useCallback()은 **리랜더링을 줄일 수 있다**.
+useCallback()은 **리렌더링을 줄일 수 있다**.
 
 이에 대하여 자세히 알아보자.
 
@@ -85,8 +85,8 @@ return 값으로 리액트 엘리먼트(element)를 반환한다.
 다시 생성된 객체들은 **'값이 같더라도 다른 객체로 취급'**이 된다.  
 (reference type이므로, 참조하는 주소가 달라지기 때문에)
 
-리액트는 이를 변화로 인식하고, 리랜더링을 수행한다.   
-useMemo와 useCallback을 사용하면 이러한 리랜더링을 방지할 수 있다.
+리액트는 이를 변화로 인식하고, 리렌더링을 수행한다.   
+useMemo와 useCallback을 사용하면 이러한 리렌더링을 방지할 수 있다.
 <br/><br/>
 
 
