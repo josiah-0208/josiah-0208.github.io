@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josiah-0208.github.io/sitemap.xml
